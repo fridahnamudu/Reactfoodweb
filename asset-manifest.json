@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reactfoodweb/static/css/main.054ee7e4.css",
-    "main.js": "/reactfoodweb/static/js/main.cd3728f1.js",
-    "static/js/787.5c67844f.chunk.js": "/reactfoodweb/static/js/787.5c67844f.chunk.js",
-    "static/media/hotdog.jpg": "/reactfoodweb/static/media/hotdog.1e0700808a2aec26086b.jpg",
-    "static/media/fries.jpg": "/reactfoodweb/static/media/fries.d7eecad6d3126f8ef91d.jpg",
-    "static/media/burgerback.jpg": "/reactfoodweb/static/media/burgerback.26a546d0cb67c3676ddd.jpg",
-    "static/media/background.jpg": "/reactfoodweb/static/media/background.13a089572e056938a784.jpg",
-    "static/media/burgers.jpg": "/reactfoodweb/static/media/burgers.9d8775ecb3699e2825c3.jpg",
-    "static/media/pilau.jpg": "/reactfoodweb/static/media/pilau.9712844b64f5e9ee5242.jpg",
-    "static/media/smocha.jpg": "/reactfoodweb/static/media/smocha.ab86b69275b4c0bebee0.jpg",
-    "static/media/1.jpg": "/reactfoodweb/static/media/1.deecd4475bae0fbcbab7.jpg",
-    "static/media/friesmasala.jpeg": "/reactfoodweb/static/media/friesmasala.030f8a27148ed6682115.jpeg",
-    "static/media/chapati.jpeg": "/reactfoodweb/static/media/chapati.26332aeccb47db09a17e.jpeg",
-    "index.html": "/reactfoodweb/index.html",
-    "main.054ee7e4.css.map": "/reactfoodweb/static/css/main.054ee7e4.css.map",
-    "main.cd3728f1.js.map": "/reactfoodweb/static/js/main.cd3728f1.js.map",
-    "787.5c67844f.chunk.js.map": "/reactfoodweb/static/js/787.5c67844f.chunk.js.map"
+    "main.css": "/Reactfoodweb/static/css/main.054ee7e4.css",
+    "main.js": "/Reactfoodweb/static/js/main.c81c62da.js",
+    "static/js/787.5c67844f.chunk.js": "/Reactfoodweb/static/js/787.5c67844f.chunk.js",
+    "static/media/hotdog.jpg": "/Reactfoodweb/static/media/hotdog.1e0700808a2aec26086b.jpg",
+    "static/media/fries.jpg": "/Reactfoodweb/static/media/fries.d7eecad6d3126f8ef91d.jpg",
+    "static/media/burgerback.jpg": "/Reactfoodweb/static/media/burgerback.26a546d0cb67c3676ddd.jpg",
+    "static/media/background.jpg": "/Reactfoodweb/static/media/background.13a089572e056938a784.jpg",
+    "static/media/burgers.jpg": "/Reactfoodweb/static/media/burgers.9d8775ecb3699e2825c3.jpg",
+    "static/media/pilau.jpg": "/Reactfoodweb/static/media/pilau.9712844b64f5e9ee5242.jpg",
+    "static/media/smocha.jpg": "/Reactfoodweb/static/media/smocha.ab86b69275b4c0bebee0.jpg",
+    "static/media/1.jpg": "/Reactfoodweb/static/media/1.deecd4475bae0fbcbab7.jpg",
+    "static/media/friesmasala.jpeg": "/Reactfoodweb/static/media/friesmasala.030f8a27148ed6682115.jpeg",
+    "static/media/chapati.jpeg": "/Reactfoodweb/static/media/chapati.26332aeccb47db09a17e.jpeg",
+    "index.html": "/Reactfoodweb/index.html",
+    "main.054ee7e4.css.map": "/Reactfoodweb/static/css/main.054ee7e4.css.map",
+    "main.c81c62da.js.map": "/Reactfoodweb/static/js/main.c81c62da.js.map",
+    "787.5c67844f.chunk.js.map": "/Reactfoodweb/static/js/787.5c67844f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.054ee7e4.css",
-    "static/js/main.cd3728f1.js"
+    "static/js/main.c81c62da.js"
   ]
 }
